@@ -59,5 +59,4 @@ isort = "*"
 
 [environments]
 default = ["test", "dev", "affine"]
-docs = ["docs"] 
-
+docs = ["docs"]

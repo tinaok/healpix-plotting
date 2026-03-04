@@ -1,4 +1,3 @@
-
 # -- Project information -----------------------------------------------------
 import datetime as dt
 import pathlib
@@ -100,6 +99,3 @@ napoleon_numpy_docstring = True
 napoleon_use_param = False
 napoleon_use_rtype = False
 napoleon_preprocess_types = True
-
-
-
